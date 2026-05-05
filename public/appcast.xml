@@ -3,6 +3,21 @@
     <channel>
         <title>Mustash</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Tue, 05 May 2026 01:38:21 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Mustash 0.1.1
+
+## Notes
+- Sparkle update test build.
+- No product behavior changes are intended in this release.
+]]></description>
+            <enclosure url="https://mustash.app/releases/Mustash-0.1.1.zip" length="5977101" type="application/octet-stream" sparkle:edSignature="iaaNE2I7owtUkfdMy8LS0DIcsfR7deRpkNJMM00UMupnRQ+F3RivZX1CBGxoJDGcNX6BED+AOrrl64e3SZlBCg=="/>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Tue, 05 May 2026 01:12:52 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
