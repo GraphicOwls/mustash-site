@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mustash</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 05 May 2026 01:12:52 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://mustash.app/releases/Mustash-0.1.0.zip" length="5996579" type="application/octet-stream" sparkle:edSignature="8itF81g4pUXixxusmA3A7sou1atI9KnGiUu2lVJt9Uk//TFOtlE9qD1mXLr7zFOf89R2rmFY8uBIQcBZAUViCg=="/>
+        </item>
+    </channel>
+</rss>
