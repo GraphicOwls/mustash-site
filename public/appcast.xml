@@ -3,6 +3,23 @@
     <channel>
         <title>Mustash</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Tue, 05 May 2026 03:19:42 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description sparkle:format="markdown"><![CDATA[# Mustash 0.1.2
+
+## Fixed
+- Fixes the Sparkle framework runtime path so packaged builds launch correctly.
+
+## Notes
+- Sparkle update test build.
+]]></description>
+            <enclosure url="https://mustash.app/releases/Mustash-0.1.2.zip" length="5977269" type="application/octet-stream" sparkle:edSignature="UxRoDft1sqI2JwMr279KvkgxpMM5T4iIpel6OD+0P0dS3NboNAZ73bo6LdJPdf7K4NQV2/bmdeR2m2lIJzpCCw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Tue, 05 May 2026 01:38:21 -0400</pubDate>
             <sparkle:version>2</sparkle:version>
